@@ -1,6 +1,3 @@
-include:
-  - _includes/README.md
-  
 markdown: kramdown
 kramdown:
   parse_block_html: true
