@@ -43,7 +43,7 @@
 <details>
 
 - [実況パワフルプロ野球](https://www.konami.com/pawa/app/) (スマートフォン）
-- パワフルプロ野球 ～毎日がクライマックス！!～ (スマートフォン）
+- パワフルプロ野球 ～毎日がクライマックス！　～ (スマートフォン）
 - ドリームスタリオン（モバイル）
 - [ワールドサッカーコレクション](https://www.konami.com/games/jp/ja/products/sns_wscs/)(モバイル）
 - [実況パワフルプロ野球 2016](https://www.konami.com/pawa/2016/)(PS4,PS3,PSVITA)
@@ -59,7 +59,7 @@
 - プロ野球スピリッツ 2012(PS3,PSVITA,PSP)
 - プロ野球スピリッツ 2011(PS3,3DS,PSP)
 - プロ野球スピリッツ 2010(PS2,PS3,PSP)
-- MLB ボブルヘッド！(PS3)
+- MLB ボブルヘッド！　(PS3)
 - プロ野球スピリッツ 2010(PSP)
 - 実況パワフルメジャーリーグ 2009(PS2,Wii)
 - 実況パワフルメジャーリーグ 3, MLB POWER PROS2(PS2,Wii)
@@ -90,7 +90,7 @@
 
 - 川のぬし釣り～不思議の森から～(GB アドバンス）
 - 優駿ラプソティ (GB アドバンス）
-- がんばれ！　ニッポン！オリンピック 2000 (ドリームキャスト）
+- がんばれ！　ニッポン！　オリンピック 2000 (ドリームキャスト）
 - 実況パワフルプロ野球（ドリームキャスト）
 - ドラゴンクエストモンスターズ（PS）
 - テーマアクアリウム（Windows）
@@ -204,7 +204,7 @@
 | Alpha+ Project Boot Camp                                                                                             | 2023/08/19 | CI/CD について                                                                                                                             |
 | [勉強法の勉強会](https://yumemi.connpass.com/event/281721/)                                                          | 2023/05/15 | 技術書を集中して読むために新たに始めた方法が自分にクリティカルヒットした話                                                                 |
 | [Developers Summit 2020 KANSAI](https://event.shoeisha.jp/devsumi/20200827)                                          | 2020/08/27 | C#読書会の紹介(LT)                                                                                                                         |
-| [Mix Leap 2 周年記念！！第 2 回制作物天下一武道会](https://lycorp-osaka-jp.connpass.com/event/147719/)               | 2019/10/31 | マンガ読んだ！ ！LT                                                                                                                         |
+| [Mix Leap 2 周年記念！！第 2 回制作物天下一武道会](https://lycorp-osaka-jp.connpass.com/event/147719/)               | 2019/10/31 | マンガ読んだ！ ！ LT                                                                                                                         |
 | [Developers Summit 2019 KANSAI](https://event.shoeisha.jp/devsumi/20190927)                                          | 2019/09/27 | C#読書会の紹介(LT)                                                                                                                         |
 | [meetup app osaka@3](https://meetupapp.connpass.com/event/112659/)                                                   | 2019/06/22 | Blazor と踊ろう                                                                                                                            |
 | [Visual Studio 2019 Launch at Kansai](https://meetupapp.connpass.com/event/112659/)                                  | 2018/12/22 | Blazor+Identity                                                                                                                            |
