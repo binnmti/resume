@@ -46,29 +46,29 @@
 
 <details>
 
-- [実況パワフルプロ野球](https://www.konami.com/pawa/app/) (スマートフォン）
-- パワフルプロ野球 ～毎日がクライマックス！　～ (スマートフォン）
-- ドリームスタリオン（モバイル）
-- [ワールドサッカーコレクション](https://www.konami.com/games/jp/ja/products/sns_wscs/)(モバイル）
-- [実況パワフルプロ野球 2016](https://www.konami.com/pawa/2016/)(PS4,PS3,PSVITA)
-- 実況パワフルプロ野球 2014(PS3,PSVITA)
-- 実況パワフルプロ野球 2013(PS3,PSVITA,PSP)
-- 実況パワフルプロ野球 2012 決定版（PS3,PSVITA,PSP)
-- 実況パワフルプロ野球 2012(PS3,PSVITA,PSP)
-- 実況パワフルプロ野球 2011 決定版（PS3,PSP)
-- 実況パワフルプロ野球 2011(PS3,PSP)
-- [プロ野球スピリッツ 2015](https://www.konamistyle.jp/products/detail.php?product_id=73039)(PS3,PSVITA)
-- プロ野球スピリッツ 2014(PS3,PSVITA,PSP)
-- プロ野球スピリッツ 2013(PS3,PSVITA,PSP)
-- プロ野球スピリッツ 2012(PS3,PSVITA,PSP)
-- プロ野球スピリッツ 2011(PS3,3DS,PSP)
-- プロ野球スピリッツ 2010(PS2,PS3,PSP)
-- MLB ボブルヘッド！　(PS3)
-- プロ野球スピリッツ 2010(PSP)
-- 実況パワフルメジャーリーグ 2009(PS2,Wii)
-- 実況パワフルメジャーリーグ 3, MLB POWER PROS2(PS2,Wii)
-- 実況パワフルメジャーリーグ 2, MLB POWER PROS(PS2,Wii)
-- 実況パワフルメジャーリーグ（PS2、ゲームキューブ）
+    - [実況パワフルプロ野球](https://www.konami.com/pawa/app/) (スマートフォン）
+    - パワフルプロ野球 ～毎日がクライマックス！　～ (スマートフォン）
+    - ドリームスタリオン（モバイル）
+    - [ワールドサッカーコレクション](https://www.konami.com/games/jp/ja/products/sns_wscs/)(モバイル）
+    - [実況パワフルプロ野球 2016](https://www.konami.com/pawa/2016/)(PS4,PS3,PSVITA)
+    - 実況パワフルプロ野球 2014(PS3,PSVITA)
+    - 実況パワフルプロ野球 2013(PS3,PSVITA,PSP)
+    - 実況パワフルプロ野球 2012 決定版（PS3,PSVITA,PSP)
+    - 実況パワフルプロ野球 2012(PS3,PSVITA,PSP)
+    - 実況パワフルプロ野球 2011 決定版（PS3,PSP)
+    - 実況パワフルプロ野球 2011(PS3,PSP)
+    - [プロ野球スピリッツ 2015](https://www.konamistyle.jp/products/detail.php?product_id=73039)(PS3,PSVITA)
+    - プロ野球スピリッツ 2014(PS3,PSVITA,PSP)
+    - プロ野球スピリッツ 2013(PS3,PSVITA,PSP)
+    - プロ野球スピリッツ 2012(PS3,PSVITA,PSP)
+    - プロ野球スピリッツ 2011(PS3,3DS,PSP)
+    - プロ野球スピリッツ 2010(PS2,PS3,PSP)
+    - MLB ボブルヘッド！　(PS3)
+    - プロ野球スピリッツ 2010(PSP)
+    - 実況パワフルメジャーリーグ 2009(PS2,Wii)
+    - 実況パワフルメジャーリーグ 3, MLB POWER PROS2(PS2,Wii)
+    - 実況パワフルメジャーリーグ 2, MLB POWER PROS(PS2,Wii)
+    - 実況パワフルメジャーリーグ（PS2、ゲームキューブ）
 
 </details>
 
