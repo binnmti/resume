@@ -45,16 +45,6 @@
 > 基幹技術班として、デザイナ支援やツールの開発、自動化システムの導入に従事。リーダーとしてデザイナのサポートや社内システムの構築も担当。多数のゲームタイトルに携わり、CI ツールの導入も行う。
 
 <details>
-  <summary>クリックして展開</summary>
-  
-  - リスト項目1
-  - リスト項目2
-
-  テキストもMarkdownで記述できます。
-</details>
-
-
-<details>
 
 - [実況パワフルプロ野球](https://www.konami.com/pawa/app/) (スマートフォン）
 - パワフルプロ野球 ～毎日がクライマックス！　～ (スマートフォン）
@@ -251,8 +241,6 @@
 
 </details>
 
-##
-
 ## 著書、記事
 
 > 森理 麟名義で、共著で本を一冊執筆。その流れで他の本に 1P 寄稿。そのほかテキスト系サービスに技術内容を中心にアウトプット。
@@ -266,6 +254,7 @@
 | [Qiita](https://qiita.com/binnmti) | [10 万冊近いマンガのタイトルから巻数を取得する関数、巻数関数を作ったら思ったよりかなり大変だった話](https://qiita.com/binnmti/items/84d48766f5068ec8d06b)                                                                                                                                                                                                                                                       |
 | [Zenn](https://zenn.dev/binnmti)   | [特に個人開発者向け！CodeRabbit(自動レビューツール)を使えばコードの健康まで得られることに気づいた話](https://zenn.dev/binnmti/articles/7e3690ebe80951/)                                                                                                                                                                                                                                                         |
 | [note](https://note.com/binnmti/)  | [技術書を集中して読むために新たに始めた方法が自分にクリティカルヒットした](https://note.com/binnmti/n/n3e15323052ab)                                                                                                                                                                                                                                                                                            |
+
 </details>
 
 ## コード
