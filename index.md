@@ -5,17 +5,21 @@ image: /assets/page-pic.jpg
 description: 松井 敏のresumeを乗せています。内容を読んで興味を持たれた方は是非フォームから連絡頂けると幸いです。お話出来るのを楽しみにしています。
 ---
 
-![resume](./assets/page-pic.jpg "Bin Matsui")
-
-
 # 基本情報
+<p>
 
 | key      | value                    |
 | -------- | ------------------------ |
+| 自画像 | ![resume](./assets/page-pic.jpg "Bin Matsui") |
 | 氏名     | 松井 敏                  |
 | 生年月日 | 1976年生まれ              |
 | 居住地   | 京都府                   |
 | 最終学歴 | 大阪ゲームデザイナー学院 |
+
+
+
+
+</p>
 
 ---
 
