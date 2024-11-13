@@ -1,8 +1,12 @@
 ---
 layout: default
 title: 松井 敏のresume
+image: /assets/page-pic.jpg
 description: このサイトは松井 敏のresumeです
 ---
+
+![resume](/assets/page-pic.jpg "Bin Matsui")
+
 
 # 基本情報
 
