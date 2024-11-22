@@ -6,7 +6,7 @@ description: 松井 敏のresumeを乗せています。内容を読んで興味
 
 ---
 
-[**日本語** | [英語](https://binnmti.github.io/resume/index.en.html)]
+**日本語** | [英語](https://binnmti.github.io/resume/index.en.html)
 
 ---
 

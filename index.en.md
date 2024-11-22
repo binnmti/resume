@@ -6,7 +6,7 @@ description: Bin Matsui's resume is posted here. If you are interested in the co
 
 ---
 
-[ [Japanese](https://binnmti.github.io/resume) | **English** ]
+[Japanese](https://binnmti.github.io/resume) | **English**
 
 --- 
 
@@ -17,7 +17,7 @@ description: Bin Matsui's resume is posted here. If you are interested in the co
 | -------- | ------------------------ | 
 | Name | Bin Matsui | 
 | Date of birth | October 1976 | 
-| Place of residence | Kyoto Prefecture | 
+| Place of residence | Kyoto | 
 | Highest level of education | Osaka Game Designer Academy | 
 
 --- 
@@ -52,7 +52,7 @@ I have worked for 25 years, and this is the first time I have decided to take a 
 
 > Seconded to Keyence Corporation as a technical manager/consultant, and was in charge of development and testing as a C++, C# programmer. Also experienced leadership work. 
 
-## [Konami Digital Entertainment Co., Ltd.](https://www.konami.com/games/corporate/ja/) (2005/07-2015/11) 
+## [Konami Digital Entertainment Inc.](https://www.konami.com/games/us/en/) (2005/07-2015/11) 
 
 > As part of the core technology team, he is involved in supporting designers, developing tools, and implementing automated systems. As a leader, he is also responsible for supporting designers and building in-house systems. He has worked on many game titles and introduced CI/CD tools. 
 
@@ -71,8 +71,8 @@ I have worked for 25 years, and this is the first time I have decided to take a 
 - Jikkyo Powerful Pro Baseball 2011(PS3,PSP) 
 - [Professional Baseball Spirits 2015](https://www.konamistyle.jp/products/detail.php?product_id=73039)(PS3,PSVITA) 
 - Pro Baseball Spirits 2014 (PS3, PSVITA, PSP) 
-- Pro Baseball Spirits 2013 (PS3 
-, PSVITA, PSP) - Pro Baseball Spirits 2012 (PS3, PSVITA, PSP) 
+- Pro Baseball Spirits 2013 (PS3, PSVITA, PSP)
+- Pro Baseball Spirits 2012 (PS3, PSVITA, PSP) 
 - Pro Baseball Spirits 2011 (PS3, 3DS, PSP) 
 - Pro Baseball Spirits 2010 (PS2, PS3, PSP) 
 - MLB Bobblehead! (PS3) 
@@ -98,7 +98,7 @@ I have worked for 25 years, and this is the first time I have decided to take a 
 
 </details> 
 
-## [Tose Co., Ltd.](https://www.tose.co.jp/) (1999/04-2001/09) 
+## [Tose Co., Ltd.](https://www.tose.co.jp/en/index.html) (1999/04-2001/09) 
 
 > Involved in game development using C/C++, responsible for UI and game systems. Experience in creating 3D tools for Windows using OpenGL. 
 
@@ -132,7 +132,7 @@ Previously, I worked under a handle name without revealing my real name. Since t
 
 | Item | Content | 
 | ---- | -------------------------------- | 
-| Name | binnmti aka Mori Ririn (moririring) | 
+| Name | binnmti a.k.a moririring | 
 
 ## [C# Reading Club](https://cs-reading.connpass.com/) Organizer 
 
