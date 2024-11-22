@@ -6,12 +6,12 @@ description: Bin Matsui's resume is posted here. If you are interested in the co
 
 ---
 
-- [ [日本語](https://github.com/binnmti/resume) | English ]
+[ [Japanese](https://binnmti.github.io/resume) | **English** ]
 
 --- 
 
 # Basic information 
-! [image] (./assets/page-pic.jpg "Bin Matsui") 
+![image](./assets/page-pic.jpg "Bin Matsui")
 
 | Item | Content | 
 | -------- | ------------------------ | 
@@ -44,7 +44,6 @@ I want to do? I love writing programs and making things, so I want to work to re
 
 I have worked for 25 years, and this is the first time I have decided to take a slightly longer break. I don't have enough assets to not have to work, but I decided that it would be good to have such a period in my life. My wife also agreed. One thing I'll do during my vacation is [study](https://github.com/binnmti/Study). Since November, I've been studying computer science, algorithm problems, compiler creation, Buddhism, nutrition, and independent research. The other is to talk to people who are interested in this resume. I plan to do these two things until I'm satisfied with them before I start working. Therefore, although it may change depending on the situation, I'm thinking of starting work next June or later. 
 
-<!-- textlint-enable ja-technical-writing/no-doubled-joshi --> 
 --- 
 
 # Work history 
@@ -162,7 +161,7 @@ Previously, I worked under a handle name without revealing my real name. Since t
 
 </details> 
 
-## [VS Hackathon Club (https://vshtc.doorkeeper.jp/) Organized 
+## [VS Hackathon Club](https://vshtc.doorkeeper.jp/) Organized 
 
 a community that regularly holds hackathons using Visual Studio. It also held study sessions (now transitioned to a C# reading group). 
 
