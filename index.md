@@ -3,6 +3,11 @@ layout: default
 title: 松井 敏のresume
 image: /assets/page-pic.jpg
 description: 松井 敏のresumeを乗せています。内容を読んで興味を持たれた方はフォームから連絡頂けると嬉しいです！
+
+---
+
+- [ 日本語 | [English](https://github.com/binnmti/resume/index.en.html) ]
+
 ---
 
 # 基本情報
