@@ -1,4 +1,12 @@
 {
+  "filters": {
+    "comments": true,
+    "whitelist": {
+      "allow": [
+        "キャリアブレイク"
+      ]
+    }
+  },  
   "rules": {
     "preset-ja-technical-writing": {
       "sentence-length": {
