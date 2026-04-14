@@ -227,9 +227,15 @@ description: 松井 敏のresumeを乗せています。内容を読んで興味
 
 | 勉強会                                                                                                               | 日付       | タイトル                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [meetup app osaka@10](https://meetupapp.connpass.com/event/383295/)                         | 2026/02/21 | テックワード自動収集サービスを作って気づいた「英語が一次情報」という現実                                    |
+| [.NET Conf 2025 Osaka x Fukuoka x Tokyo](https://tfsug.connpass.com/event/373801/)                         | 2025/12/20 | AIにメンタルやられた話                                    |
+| [【大阪出張編】.NETラボ 勉強会 2025年11月](https://dotnetlab.connpass.com/event/364122/)                         | 2025/11/22 | Visual StudioとVS Codeと A(I)                                    |
+| Alpha+ Project Boot Camp                         | 2025/11/02 | AIの並列開発が熱いので始めようと思った話                                    |
+| [オープンセミナー2025@香川](https://osk.connpass.com/event/363281/)                         | 2025/09/20 | 今の自分のC#を書く時のコーディングワークフロー                                    |
 | [日替わりゲストBAR「キャリアブレイク×立ち止まる×ウェルビーイング経営×コミュニティ活動×プログラミング」](https://bloomingcamp.sakura.ad.jp/events/g2uhpb022n/)                         | 2025/05/16 | キャリアブレイク×コミュニティ活動×プログラミング                                    |
 | [Global Azure 2025 @ Kansai](https://tfsug.connpass.com/event/348543/)                         | 2025/05/10 | Azure + Blazor x 個人開発                                    |
 | [Build with AI Kwansai](https://gdgkwansai.connpass.com/event/346523/)                         | 2025/04/19 | キャリアブレイク中の自己学習でのAIの使い方                                    |
+| Alpha+ Project Boot Camp                         | 2025/04/05 | マークダウン講座                                    |
 | [meetup app osaka@9](https://meetupapp.connpass.com/event/348237/)                         | 2025/03/29 | C#でC#コンパイラを作っている話                                    |
 | [Tech Award in Hack Osaka 2024](https://techaward.connpass.com/event/329560/)                         | 2024/11/26 | C#読書会主催                                    |
 | Alpha+ 2nd Sep Online                         | 2024/10/26 | 並行並列プログラミング                                    |
