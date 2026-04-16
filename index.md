@@ -239,7 +239,7 @@ description: 松井 敏のresumeを乗せています。内容を読んで興味
 | -------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Global Azure 2026 @ Kansai](https://tfsug.connpass.com/event/387038/)                         | 2026/04/18 | |
 | [CodeRabbit User Group Osaka #1](https://crug.connpass.com/event/386448/)                         | 2026/04/10 | AIとレビュー                                    |
-| [meetup app osaka@10](https://meetupapp.connpass.com/event/383295/)                         | 2026/02/21 | テックワード自動収集サービスを作って気づいた「英語が一次情報」という現実                                    |
+| [meetup app osaka@10](https://meetupapp.connpass.com/event/383295/)                         | 2026/02/21 | テックWord自動収集サービスを作って気づいた「英語が一次情報」という現実                                    |
 | [.NET Conf 2025 Osaka x Fukuoka x Tokyo](https://tfsug.connpass.com/event/373801/)                         | 2025/12/20 | AIにメンタルやられた話                                    |
 | [【大阪出張編】.NETラボ 勉強会 2025年11月](https://dotnetlab.connpass.com/event/364122/)                         | 2025/11/22 | Visual StudioとVS Codeと A(I)                                    |
 | Alpha+ Project Boot Camp                         | 2025/11/02 | AIの並列開発が熱いので始めようと思った話                                    |
